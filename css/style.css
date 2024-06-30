@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+.presentacion {
+  padding: 10px;
+  color: red;
+  text-shadow: 2px 3px 5px rgba(255, 255, 255, 0.404);
+}
